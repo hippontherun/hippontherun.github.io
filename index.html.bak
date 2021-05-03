@@ -39,7 +39,9 @@
             <p><br>My name is Atinder Sanghera and I am a postgraduate at the University of Sydney pursuing a Master of Data Science. I am also a UNSW graduate with Bachelors degrees in Commerce (Actuarial Science major) and Civil Engineering.</p>
             <p>Currently working as a Data Scientist at WooliesX where I build machine learning models that improve the way customers shop.</p>
 			<p>Opened my own IT support & repair business with 5 star reviews: 
-				<a href="https://atiscomputersolutions.github.io/" class="button">Business website</a>
+				<div style="margin-left:20px">
+					<a href="https://atiscomputersolutions.github.io/" class="button">Business website</a>
+				</div>
 			</p>
             <p>Recently worked with Children's Medical Research Institute designing cancer classification models, and conducting data analysis on genomic data.</p>
             <p>Also recently worked as a Data Science intern with Xailient building computer vision models and conducting analytics on use cases. Also as a Data Analyst & Engineer for Mission Australia on a volunteering analytics project to determine optimal business strategies.</p>
